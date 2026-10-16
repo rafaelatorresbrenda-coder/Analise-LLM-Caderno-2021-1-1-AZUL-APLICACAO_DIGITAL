@@ -1,0 +1,15 @@
+Questão 34 - Linguagens, Códigos e suas Tecnologias
+
+**[FIGURA: Infográfico com o título "OS RISCOS PARA CRIANÇAS DO USO DO CELULAR ANTES DE DORMIR". No topo, há ilustrações de smartphones e o texto: "Estudo do King's College concluiu que essas crianças e adolescentes têm maior risco de obesidade, baixo sistema imunológico, crescimento atrofiado e depressão". Abaixo, quatro ícones explicam os impactos da falta de sono no longo prazo: 1) Melatonina, que prepara o corpo para o sono; 2) Leptina, da saciedade; 3) CH (Hormônio do Crescimento); 4) Cortisol, da estabilidade emocional e do controle de inflamações. No centro, uma ilustração detalha o mecanismo: feixes de luz saem de um celular manuseado por uma criança na cama, atingindo seus olhos, com setas apontando para ícones de um relógio biológico, um cérebro em alerta, uma carinha triste representando o sono fragmentado e engrenagens indicando o processamento da memória. Na parte inferior, há uma seção intitulada "O QUE FAZER?", contendo três recomendações com marcas de verificação/corte: "FICAR ENTRE 30 MINUTOS E 2 HORAS SEM TELAS ANTES DE IR PARA A CAMA", "REDUZIR A INTENSIDADE DA LUZ EMITIDA" e "MANTER O TELEFONE LONGE, PORÉM NO QUARTO, NÃO RESOLVE. A EXPECTATIVA DE RECEBER MENSAGENS É SUFICIENTE PARA ATRAPALHAR O SONO". Na base, há a ilustração de um gato observando a cena e o crédito: "Disponível em: https://g1.globo.com. Acesso em: 18 jun. 2019 (adaptado)."]**
+
+No texto, os recursos verbais e não verbais empregados têm por objetivo
+
+A) divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.
+
+B) influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.
+
+C) relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.
+
+D) indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.
+
+E) sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas.

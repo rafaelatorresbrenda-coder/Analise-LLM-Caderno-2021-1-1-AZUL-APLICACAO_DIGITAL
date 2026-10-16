@@ -1,0 +1,21 @@
+Questão 20 - Linguagens, Códigos e suas Tecnologias
+
+Que tal transformar a internet em palco para a dança?
+
+**[FIGURA: Matriz com 16 pequenos quadros (4x4) em preto e branco mostrando fotogramas ou cenas do projeto "Mini@tures". Em cada quadro, um bailarino em miniatura interage com elementos digitais, mãos humanas ampliadas, ou telas de computador, criando ilusões de ótica onde a figura humana dança sobre superfícies como teclados, palmas de mãos, ou através de linhas gráficas.]**
+
+O coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. *Mini@tures* é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho de arquivo, para que um número maior de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. *Mini@tures* explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.
+
+SPANGHERO, M. **A dança dos encéfalos acesos**. São Paulo: Itaú Cultural, 2003 (adaptado).
+
+Considerado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por
+
+A) adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.
+
+B) criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações.
+
+C) privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela.
+
+D) produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética.
+
+E) redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários.
